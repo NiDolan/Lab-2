@@ -78,6 +78,7 @@ Vlan    Mac Address       Type        Ports
    1    0090.210e.30c0    DYNAMIC     Fa0/18
    1    00d0.d3e9.1e77    DYNAMIC     Fa0/1
    1    00e0.f96c.eedb    DYNAMIC     Fa0/1
+```
 
    На компьютере PC-B откройте командную строку и еще раз введите команду arp -a.
 ```
